@@ -48,7 +48,7 @@ public class Q7 {
         }
     }
 
-    ;
+
 
     public static BinaryTreeNode reconstructe(int[] preOrder, int[] inOrder) {
         if (preOrder == null || preOrder.length == 0) {

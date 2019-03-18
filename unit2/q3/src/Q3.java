@@ -14,8 +14,7 @@ public class Q3 {
             return false;
         }
 
-        for (int num : number
-        ) {
+        for (int num : number) {
             if (num < 0 || num >= number.length)
                 return false;
         }
